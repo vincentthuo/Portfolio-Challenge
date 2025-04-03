@@ -1,6 +1,7 @@
 # Vincent Thuo's Developer Portfolio  
 
 Welcome to my personal portfolio!
+
 This project showcases my skills, projects, and experience as a web developer.  
 
 ## Overview  
@@ -32,9 +33,13 @@ To view the portfolio locally:
 2. Open index.html in your browser.
 
 Future Enhancements
+
 🔹 Implement JavaScript for interactivity.
+
 🔹 Add CSS animations for improved UI/UX.
+
 🔹 Integrate a backend for a blog section.
 
 Contact
+
 Email: thuo.wanjihia@gmail.com
